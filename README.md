@@ -16,7 +16,7 @@ Feel free to leave a star on the repository, it would be motivating :)
 
 2. Install the required Python packages:
    ```
-   pip install requests beautifulsoup4 py7zr
+   pip install -r ./requirements.txt
    ```
 
 3. Run the script (As Administrator):
